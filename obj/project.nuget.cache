@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CPG2bywlHOttPqrI1XDLBulynnlL56L/FAhhfi0aJzlcQp9mISkBLlJUUCOSN2N7Sp1td//HHDb/1jjLzTwqPg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\אביטל\\Desktop\\prj\\prj.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\אביטל\\.nuget\\packages\\system.commandline\\2.0.0-beta4.22272.1\\system.commandline.2.0.0-beta4.22272.1.nupkg.sha512"
+  ],
+  "logs": []
+}
